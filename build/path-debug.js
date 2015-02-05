@@ -1,8 +1,4 @@
-/*
-Copyright 2014, modulex-path@1.0.3
-MIT Licensed
-build time: Thu, 16 Oct 2014 03:54:36 GMT
-*/
+//! Copyright 2015, kissy-path@1.0.3 MIT Licensed, build time: Thu, 05 Feb 2015 06:42:03 GMT 
 /*
 combined modules:
 path
